@@ -66,7 +66,7 @@ header{
 }
 
 .intro_nav{
-	margin-right: 150px;
+	margin-right: 160px;
 	padding-top: 19px;
 	padding-bottom: 19px;
 	
@@ -712,5 +712,161 @@ h1{
 }
 
 footer{
+	margin: 0;
+	padding-top: 76px;
 	background-color: #f5f6fb;
+	padding-bottom: 50px;
+}
+
+.footer__block{
+	width: 286px;
+	float:left;
+}
+
+.footer__block2{
+	margin-left: 128px;
+	float: left;
+	width: 81px;
+}
+
+.footer__mainlink{
+	text-decoration: none;
+	font-size: 16px;
+	color: #323232;
+	font-weight: 700;
+}
+
+.footer__links{
+	overflow: hidden;
+	margin-bottom: 52px;
+}
+
+.footer__list{
+	margin-top: 39px;
+	list-style: none;
+	padding-left: 0;
+}
+
+.footer__item{
+	margin-bottom: 24px;
+}
+
+.footer__link{
+	font-size: 14px;
+	color: #707070;
+	text-decoration: none;
+}
+
+.footer__descript{
+	color: #707070;
+	margin-top: 39px;
+}
+
+.footer__block3{
+	width: 133px;
+}
+
+.footer__news{
+	float: right;
+}
+
+.footer__mail{
+	width: 255px;
+	height: 44px;
+	border: 1px solid #dcdde1;
+	border-right: none;
+	padding-top: 14px;
+	box-sizing: border-box;
+}
+
+.email{
+	margin-left: 22px;
+	font-size: 14px;
+	font-family: sans-serif;
+	color: #707070;
+}
+
+.footer__send{
+	width: 300px;
+	height: 44px;
+	box-sizing: border-box;
+}
+
+.footer__button{
+	float: right;
+	width: 44px;
+	height: 44px;
+	background-color: #00b894;
+	text-align: center;
+	vertical-align: middle;
+	box-sizing: border-box;
+	padding-top: 14px;
+}
+
+.form_iname{
+	width: 285px;
+	height: 45px;
+	padding-left: 15px;
+	box-sizing: border-box;
+	border: 1px solid #e5e5e5;
+}
+
+.main__form{
+	margin-top: 79px;
+}
+
+.form_name{
+	float: left;
+}
+
+.form_name2{
+	float: right;
+	margin-left: 10px;
+}
+
+.form_area{
+	padding-left: 15px;
+	padding-top: 15px;
+	margin-top: 30px;
+	width: 598px;
+	height: 147px;
+	box-sizing: border-box;
+	border: 1px solid #e5e5e5;
+	resize: none;
+}
+
+.forms__button{
+	float: none;
+	display: inline-block;
+	margin-top: 34px;
+}
+
+.footer__down{
+	border-top: 1px solid #e5e5e5;
+	height: 3px;
+	background-color: #f5f6fb;
+	padding-top: 32px;
+	box-sizing: border-box;
+}
+
+.copy{
+	margin: 0;
+
+
+}
+
+.footer_cards{
+	float: right;
+	overflow: hidden;
+}
+
+.card__pay{
+  margin-right: 25px;
+  float: left;
+  margin-top: 4px;
+  color: #707070;
+}
+
+.f_images{
+	float: right;
 }
